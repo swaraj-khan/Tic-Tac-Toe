@@ -1,4 +1,4 @@
-# Tic-Tac0Toe
+# Tic-Tac-Toe
 
 This is a simple implementation of the classic game Tic Tac Toe using Python's Tkinter GUI library. The game can be played by a human player against a computer AI.
 
